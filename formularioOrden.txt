@@ -1,6 +1,6 @@
 ########################################################
 ################## ORDEN DE PAGO #######################
 
-NOMBRE DEL ESTUDIANTE:
-FECHA:
-VALOR A PAGAR:
+NOMBRE DEL ESTUDIANTE: JOSHUA SEBASTIAN HERRERA DIAZ
+FECHA: 25-10-2023
+VALOR A PAGAR: 150.34
