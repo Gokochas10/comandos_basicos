@@ -2,10 +2,10 @@
 ################ FORMULARIO ALUMNOS ###################
 #######################################################
 
-CEDULA:
-NOMBRES:
-APELLIDOS:
-CORREO:
-DIRECCION:
-FECHA DE NACIMIENTO:
+CEDULA: 1805188289
+NOMBRES: JOSHUA SEBASTIAN
+APELLIDOS: HERRERA DIAZ
+CORREO: jherrera8289@uta.edu.ec
+DIRECCION: Ambato
+FECHA DE NACIMIENTO: 11-08-2003
 
